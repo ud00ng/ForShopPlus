@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_timer_options.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/timer_options.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_dsdialog.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/dsdialog.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_item_card.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/item_card.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_mountain.jpg.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/mountain.jpg"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_custom_alert_buttons.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/custom_alert_buttons.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_start.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/start.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_filter_btn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/filter_btn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_logo.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/logo.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_settings_item.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/settings_item.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_hd.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/hd.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_baseline_alternate_email_24.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/baseline_alternate_email_24.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_send.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/send.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_my_check1.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/my_check1.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/mipmap-hdpi_ic_launcher_logo_foreground.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/mipmap-hdpi/ic_launcher_logo_foreground.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_icon_dtdelete.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/icon_dtdelete.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_starting.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/starting.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_baseline_lock_24.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_aiedit.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_aiedit.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_my_check2.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/my_check2.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_grid.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/grid.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_comment.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/comment.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_menuitem4.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/menuitem4.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_guide_thumb.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/guide_thumb.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_alarm.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/alarm.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_ic_call.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/anim_slide_down.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/anim/slide_down.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_intro.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/intro.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_brush3.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/brush3.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_circular_grey_bordersolid.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/circular_grey_bordersolid.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_upload_insta.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/upload_insta.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_data_check2.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/data_check2.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_erase.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/erase.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_backbtn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/backbtn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_mypage_upload.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/mypage_upload.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_leftarrow.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/leftarrow.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/font_font.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/font/font.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_tensec.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/tensec.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_circularbordersolid.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/circularbordersolid.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_search_insta.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/search_insta.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_take_btn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/take_btn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_img.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/img.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_check.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/check.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_intro.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_head.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/head.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_pants.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/pants.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_mask_items.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/mask_items.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/xml_file_paths.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/xml/file_paths.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_settings.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/settings.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_custom_edittext.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_take_transition.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/take_transition.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_filter.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/filter.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_back2.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/back2.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_cloth.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/cloth.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/font_pretendard_regular.otf.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/font/pretendard_regular.otf"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_brush1.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/brush1.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_image_upload_2.jpg.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/image_upload_2.jpg"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_bg_email_address.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/bg_email_address.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_upload.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_upload.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_lg_inbox.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/lg_inbox.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_btn_login_bg.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/btn_login_bg.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_menuitem2.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/menuitem2.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_signup.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_upload.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/upload.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_my_page.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/my_page.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_ai.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/ai.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_guide_track.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/guide_track.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_board.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_board.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_search.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/search.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_popup_box.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/popup_box.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_took_btn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/took_btn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_insta_mypage.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/insta_mypage.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_like.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/like.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_icon_dtcheck.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/icon_dtcheck.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_download.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/download.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_search.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_search.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_checkedai.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/checkedai.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_checkedgrid.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/checkedgrid.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_low.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/low.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_pen.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/pen.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_menuitem1.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/menuitem1.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_editimage_activity.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/editimage_activity.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_loading.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/loading.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/anim_fade_in.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/anim/fade_in.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_splashbg.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/splashbg.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_ic_email.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_like_button_selector.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/like_button_selector.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_activity_splash_screen.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_reload.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/reload.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_up.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/up.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_data_check1.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/data_check1.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_brushbox.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/brushbox.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_image_container.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/image_container.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_dialog_btn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/dialog_btn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_su_idbox.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/su_idbox.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_gobtn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/gobtn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_threesec.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/threesec.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_exit.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/exit.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_grid_item.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/grid_item.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_bordered_background.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/bordered_background.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_hashtag_filter.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/hashtag_filter.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_rightarrow.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/rightarrow.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_reloadcycle.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/reloadcycle.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_user.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/user.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_restore.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/restore.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_grid_view.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/grid_view.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_home.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/home.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_fivesec.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/fivesec.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_ic_location.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_btn_white.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/btn_white.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_like_pressed.jpg.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/like_pressed.jpg"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_garbagebtn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/garbagebtn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/xml_network_security_config.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_timeron.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/timeron.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_brush2.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/brush2.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_ic_launcher_background.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_menuitem3.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/menuitem3.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_databox.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/databox.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_custom_alert_buttons2.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/custom_alert_buttons2.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_image_view_layout.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/image_view_layout.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_button_take_picture.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/button_take_picture.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_texture_view.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/texture_view.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_sharp.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/sharp.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_uploadbtn.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/uploadbtn.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_mask_check.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/mask_check.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_aimode_main.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/aimode_main.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_timerbox.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/timerbox.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_board_item.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/board_item.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_star.png.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/star.png"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/layout_resolution_start.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/layout/resolution_start.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_timeroff.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/timeroff.xml"
+    },
+    {
+        "merged": "org.pytorch.demo.objectdetection.app-merged_res-21:/drawable_circleyellowfil.xml.flat",
+        "source": "org.pytorch.demo.objectdetection.app-main-23:/drawable/circleyellowfil.xml"
+    }
+]
